@@ -1,27 +1,15 @@
-# MyAngularApp
+# My Angular Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+[![license](https://img.shields.io/github/license/ebaskoro/my-angular-app.svg?style=plastic)]()
+[![Travis](https://img.shields.io/travis/ebaskoro/my-angular-app.svg?style=plastic)](https://travis-ci.org/ebaskoro/my-angular-app)
+[![Codecov](https://img.shields.io/codecov/c/github/ebaskoro/my-angular-app.svg?style=plastic)](https://codecov.io/gh/ebaskoro/my-angular-app)
+[![David](https://img.shields.io/david/ebaskoro/my-angular-app.svg?style=plastic)](https://david-dm.org/ebaskoro/my-angular-app)
+[![Docker Automated Build](https://img.shields.io/docker/automated/ebaskoro/my-angular-app.svg?style=plastic)]()
 
-## Development server
+[![nodesource/node](http://dockeri.co/image/ebaskoro/my-angular-app)](https://hub.docker.com/r/ebaskoro/my-angular-app/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+A sample of Angular application using SCSS.
 
-## Code scaffolding
+## Join the Chat
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[![Gitter](https://img.shields.io/gitter/room/ebaskoro/my-angular-app.svg?style=plastic)](https://gitter.im/ebaskoro/my-angular-app)
