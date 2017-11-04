@@ -3,7 +3,10 @@
   <label>
     Hero name:
   </label>
-  <input #name />
+  <input
+    #name
+    (keyup.enter)="add(name.value); name.value = ''"
+  />
   <button (click)="add(name.value); name.value = ''">
     Add
   </button>

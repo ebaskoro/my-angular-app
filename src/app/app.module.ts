@@ -11,10 +11,12 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 import { DashboardComponent } from './dashboard.component';
+import { HeroSearchComponent } from './hero-search.component';
 import { HeroesComponent } from './heroes.component';
 import { HeroDetailComponent } from './hero-detail.component';
 
 import { HeroService } from './hero.service';
+import { HeroSearchService } from './hero-search.service';
 
 
 /**
@@ -32,11 +34,13 @@ import { HeroService } from './hero.service';
     declarations: [
         AppComponent,
         DashboardComponent,
+        HeroSearchComponent,
         HeroesComponent,
         HeroDetailComponent
     ],
     providers: [
-        HeroService
+        HeroService,
+        HeroSearchService
     ],
     bootstrap: [
         AppComponent
