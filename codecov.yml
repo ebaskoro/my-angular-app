@@ -24,6 +24,12 @@ coverage:
         branches:
           - master
         threshold: null
+    slack:
+      default:
+        url: https://hooks.slack.com/services/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
+        branches:
+          - master
+        threshold: null
 
 parsers:
   gcov:
